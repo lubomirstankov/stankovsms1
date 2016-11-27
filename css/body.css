@@ -1,0 +1,72 @@
+		body {
+			background-image: url("http://image.prntscr.com/image/254770310f404cf5b397364b60bd9e21.jpg");
+			background-size: 180% 180%;
+		}
+		.headLoc {
+			padding: 20px 0 20px 0;
+			text-align: center;
+		}
+		h1 {
+			font-size: 32px;
+		}
+		.small {
+			font-size: small;
+			margin: 0;
+		}
+    .status {
+		position:relative;
+		left: 900px;
+		top: 0px;
+		right: 0px;
+		width: 300px;
+		height: 300px;
+	}
+    .pb-mega {
+		overflow-wrap: break-word;
+		position:absolute;
+		top: 20px;
+		left: 12px;
+		width: 850px;
+		height: 800px;
+	}
+    .pb {
+		overflow-wrap: break-word;
+		position:absolute;
+		top: 20px;
+		left: 12px;
+		width: 850px;
+		height: 442px;
+	}
+    .footer {
+		position:absolute;
+		top: 1059px;
+		left: 0px;
+		width: 1349px;
+		height: 50px;
+	}
+    .footer2 {
+		position:absolute;
+		top: 1180px;
+		left: 0px;
+		width: 1358px;
+		height: 50px;
+	}
+    .pb2 {
+		overflow-wrap: break-word;
+		position:absolute;
+		top: 20px;
+		left: 12px;
+		width: 846px;
+		height: 235px;
+	}
+    .pb3 {
+		overflow-wrap: break-word;
+		position:absolute;
+		top: 20px;
+		left: 12px;
+		width: 846px;
+		height: 243x;
+	}
+    .buttonline {
+    display: inline-block;
+	}
